@@ -3,10 +3,37 @@ layout: page
 title: Blog
 ---
 
+<div class="posts">
+  {% for post in site.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+
+
+
+
+
+
 
 <!-- ############################################################################ -->
-<!-- Original Code for posts and pagination -->
+<!-- 
+Original Code for posts and pagination. I couldn't get it to work in this markdown file
+so there will just be no pagination for now. Just list of blogs.
+-->
 
+
+<!-- 
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -39,4 +66,4 @@ title: Blog
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->
