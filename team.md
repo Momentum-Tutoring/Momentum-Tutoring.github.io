@@ -21,7 +21,7 @@ title: Team
 </div>
 
 
-<!-- Ryan's Profile -->
+<!-- George's Profile -->
 <div class="message">
   <img src="https://media.licdn.com/dms/image/D4E03AQHOMJNCrGkJJA/profile-displayphoto-shrink_200_200/0/1707678216067?e=1713398400&v=beta&t=5GbtfS6jCFklhGlhZCDJt0B40D6JXiYRKI95epy5sVQ" style='float: left; padding: 30px;'>
   <h1>George Hall</h1>
