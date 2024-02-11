@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>ΔP</title>
- <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
- <link href="http://hyde.getpoole.com/"/>
- <updated>2024-02-11T12:43:24-05:00</updated>
- <id>http://hyde.getpoole.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-02-11T15:23:32-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Ryan Zhang</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Tutoring And Its Discontents</title>
-   <link href="http://hyde.getpoole.com/2024/02/11/tutoring-and-its-discontents/"/>
+   <link href="http://localhost:4000/2024/02/11/tutoring-and-its-discontents/"/>
    <updated>2024-02-11T00:00:00-05:00</updated>
-   <id>http://hyde.getpoole.com/2024/02/11/tutoring-and-its-discontents</id>
+   <id>http://localhost:4000/2024/02/11/tutoring-and-its-discontents</id>
    <content type="html">&lt;h3&gt;Kumon sucks&lt;/h3&gt;
 
 &lt;p&gt;We are intimate&lt;/p&gt;
@@ -27,9 +27,9 @@
  
  <entry>
    <title>Call to Action</title>
-   <link href="http://hyde.getpoole.com/2024/02/10/call-to-action/"/>
+   <link href="http://localhost:4000/2024/02/10/call-to-action/"/>
    <updated>2024-02-10T00:00:00-05:00</updated>
-   <id>http://hyde.getpoole.com/2024/02/10/call-to-action</id>
+   <id>http://localhost:4000/2024/02/10/call-to-action</id>
    <content type="html">&lt;p&gt;What we saw as students. What we felt.&lt;/p&gt;
 </content>
  </entry>
