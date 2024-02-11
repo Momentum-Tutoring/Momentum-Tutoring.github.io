@@ -3,6 +3,37 @@ layout: default
 title: Home
 ---
 
+
+<!-- Welcome -->
+
+<!-- Create a welcome box that is the color blue -->
+
+<div class="message">
+  <h1>Welcome!</h1>
+  <p>{{ site.description }}</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ############################################################################ -->
+<!-- Original Code for posts and pagination -->
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -18,6 +49,7 @@ title: Home
   </div>
   {% endfor %}
 </div>
+
 
 <div class="pagination">
   {% if paginator.next_page %}
