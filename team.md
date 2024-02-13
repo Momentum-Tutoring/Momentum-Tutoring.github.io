@@ -34,3 +34,17 @@ title: Team
     <i class="fa fa-github" style="font-size:36px"></i>
   </a>
 </div>
+
+<!-- JJ's Profile -->
+<div class="message">
+  <img src="https://media.licdn.com/dms/image/D5603AQHUhvyP9oGS5g/profile-displayphoto-shrink_200_200/0/1707685367277?e=1713398400&v=beta&t=yr_UNTPA2lGdyLjkNI_SnoDtsu8QDArH-dVwAUYQCcw" style='float: left; padding: 30px;'>
+  <h1>Andrzej "JJ" Ishizaki</h1>
+  <p>Oldest of four brothers, well-versed and experienced tutor. Loves chemistry and drawing and is excited to inspire the younger generation with his passion for the sciences. </p>
+
+  <a href="https://www.linkedin.com/in/andrzej-ishizaki-ab90972b4/">
+    <i class="fa fa-linkedin-square" style="font-size:36px"></i>
+  </a>
+  <a href="https://github.com/jjishizaki">
+    <i class="fa fa-github" style="font-size:36px"></i>
+  </a>
+</div>
