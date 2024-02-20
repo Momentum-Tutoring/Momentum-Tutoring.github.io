@@ -37,7 +37,7 @@ title: Team
 
 <!-- JJ's Profile -->
 <div class="message">
-  <img src="https://media.licdn.com/dms/image/D5603AQHUhvyP9oGS5g/profile-displayphoto-shrink_200_200/0/1707685367277?e=1713398400&v=beta&t=yr_UNTPA2lGdyLjkNI_SnoDtsu8QDArH-dVwAUYQCcw" style='float: left; padding: 30px;'>
+  <img src="https://media.licdn.com/dms/image/D5603AQFpDaxJvd0V0w/profile-displayphoto-shrink_400_400/0/1708469711923?e=1714003200&v=beta&t=yFOB7uTcQT4J0XZrpTb4FMpH9580U3Kr4qEBvJZ-afQ" style='float: left; padding: 30px;'>
   <h1>Andrzej "JJ" Ishizaki</h1>
   <p>Oldest of four brothers, well-versed and experienced tutor. Loves chemistry and drawing and is excited to inspire the younger generation with his passion for the sciences. </p>
 
