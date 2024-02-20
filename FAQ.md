@@ -9,7 +9,7 @@ Ideally we would like to meet at the student's apartment, if that isn't possible
 
 ### Do you “guarantee” results? How will we know if it’s effective?
 
-During the first session, we will administer a quiz (no more than 10 minutes) to evaluate the student's position
+During the first session, we will administer a quiz (no more than 10 minutes) to evaluate the student's position. Afterwards, towards the end of the alotted hours, 
 
 ### What experience / qualifications do you have? How long have you been tutoring?
 ### Why should I use you?
