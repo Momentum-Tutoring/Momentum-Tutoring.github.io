@@ -3,7 +3,7 @@ layout: page
 title: Apply
 ---
 
-<link href="poole.css" rel="stylesheet"></link>
+<link href="poole.css" rel="stylesheet">
 
 ### Why Buy a Bundle?
 
@@ -56,4 +56,3 @@ If your child only needs help on a specific unit in one of their classes, then 1
     </table>
   
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKHqGWe4AiLWa4KdsfEiu9ptCPTxXY7CJrZ4IKJl1lW8DWjA/viewform?usp=sharing" style="font-family: 'Trebuchet MS', sans-serif; font-size: 20px; padding-left: 10px;"><button id = "button">Apply</button></a>
-</div>
