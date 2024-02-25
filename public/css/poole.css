@@ -400,3 +400,76 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* JJ's CSS */
+
+#button{
+  text-align:center;
+  background-color: #387089;
+  color: #fff;
+  font-size: x-large;
+  text-decoration: none;
+  display: block;
+  width: 50%;
+  border: none;
+  padding: 14px 28px;
+  cursor: pointer;
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:2%;
+  border-radius: 12px;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+#button:hover{
+  background-color: #457d96;
+}
+
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
+}
+
+#table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    /*background-color: #457d96;*/
+    color: white;
+}
+
+#table td, #table th {
+  border: 1px solid #ddd;
+  padding: 8px
+}
+
+#item1{
+  background-color: #457d96;
+}
+
+#item2{
+  background-color: #4d87b0;
+}
+
+#item3{
+  background-color: #4da1b0;
+}
+
+#item4{
+  /* background-color: #2e5c71; */
+  background-color: #4db08a;
+}
+
+#prices{
+  text-align: center;
+  font-size: larger;
+}
