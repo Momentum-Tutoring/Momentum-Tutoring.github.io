@@ -246,8 +246,9 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
-  background-color: #f9f9f9;
+  border-radius: 12px;
+  color: #64757d; /*717171 */
+  background-color: #f0f6f9; /*f9f9f9 */
 }
 
 
@@ -405,9 +406,9 @@ a.pagination-item:hover {
 
 #button{
   text-align:center;
-  background-color: #387089;
-  color: #fff;
-  font-size: x-large;
+  background-color: #4d87b0;
+  color: #f0f6f9;
+  font-size: 20px;
   text-decoration: none;
   display: block;
   width: 50%;
@@ -420,10 +421,36 @@ a.pagination-item:hover {
   margin-bottom:2%;
   border-radius: 12px;
   font-family: 'Trebuchet MS', sans-serif;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2), 0 2px 5px 0 rgba(0,0,0,0.19);
+}
+
+#button2{
+  text-align:center;
+  background-color: #4d87b0;
+  float: center;
+  color: #f0f6f9;
+  font-size: 20px;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  border: none;
+  padding: 14px 28px;
+  cursor: pointer;
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:2%;
+  border-radius: 12px;
+  font-family: 'Trebuchet MS', sans-serif;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 #button:hover{
-  background-color: #5b8ea5;
+  background-color: #79a8c9;
+}
+
+#button2:hover{
+  background-color: #79a8c9;
 }
 
 a:link { 
@@ -438,18 +465,23 @@ a:hover {
 a:active { 
   text-decoration: none; 
 }
-
+table {
+  table-layout: fixed ;
+  width: 100% ;
+}
 #table th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
     /*background-color: #457d96;*/
     color: white;
+    width: 25%;
+    
 }
 
 #table td, #table th {
   border: 1px solid #ddd;
-  padding: 8px
+  padding: 8px;
 }
 
 #item1{
@@ -460,7 +492,7 @@ a:active {
   background-color: #4d87b0;
 }
 
-#item3{
+#item3{ 
   background-color: #4da1b0;
 }
 
@@ -469,7 +501,39 @@ a:active {
   background-color: #4db08a;
 }
 
+#item5{
+  font-weight: 100;
+  text-decoration: none;
+  background-color: #fff;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
 #prices{
   text-align: center;
   font-size: larger;
+}
+
+.flex-parent-element {
+  display: flex;
+  width: 100%;
+  float: center;
+}
+
+.flex-child-element {
+  flex: 1;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 40px;
+  float: center;
+}
+hr{
+  border-width:4px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#team:hover{
+  text-decoration: underline; 
 }

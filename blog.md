@@ -2,6 +2,8 @@
 layout: page
 title: Blog
 ---
+<h1>Blog</h1>
+<hr>
 
 <div class="posts">
   {% for post in site.posts %}

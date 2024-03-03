@@ -3,6 +3,12 @@ layout: page
 title: FAQ
 ---
 
+<link href="poole.css" rel="stylesheet">
+<img src="https://healthpolicy.usc.edu/wp-content/uploads/2023/03/tutor-covid-1024x683.jpg" alt="Ryan Tutoring" style="float: center; margin: 10px; width: 100%; padding-top:20px;">
+<h1 style="text-align: center;">Frequently Asked Questions</h1>
+
+<hr>
+
 ### Where do the tutors meet?
 
 Ideally we would like to meet at the student's apartment, if that isn't possible, we would be happy to arrange a separate meeting location, like a library.
